@@ -9,6 +9,7 @@
     "lint": "next lint",
     "typecheck": "tsc --noEmit",
     "static": "next build",
+    "export": "next export",
     "cap:sync": "next build && npx cap sync"
   },
   "dependencies": {
